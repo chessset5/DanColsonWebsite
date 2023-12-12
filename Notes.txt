@@ -1,0 +1,42 @@
+What does the company do?:
+    Information for About:
+        Mission Statement:
+            put in about us page
+    Services offered:
+    Photos for Portfolio:
+        --remove? previous works might be sufficient
+    Previous Work:    
+    FAQ:
+
+
+    Contact Information:
+    Phone:
+    Email:
+
+Other Notes:
+    Government contracts seem to have a who are we and what we do page with sub-pages.
+
+    What do competitors websites look like?
+
+    Make site map:
+    https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure#active_learning_create_your_own_sitemap
+
+
+Want:
+    customers page
+    products
+
+    main page
+    contacts page
+        email
+
+    Example is caltrans specific
+        Line card is example
+
+    Certs on about page
+
+    In contact us, have a prefilled email to Dan 
+        as well as the email.
+        inquiry entry. 
+
+Website should be situational
